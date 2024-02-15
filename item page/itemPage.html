@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naršyti skelbimą</title>
+    <link rel="stylesheet" href="itemPageStyle.css">
+</head>
+<body>
+
+    <header>
+        <div id="logo">
+
+            <a href="../index.html">
+                <img src="../images/logo.jpg" alt="logo">
+            </a>
+            
+
+            <h1>YUUUP, ir pardavimas garantuotas!</h1>
+        </div>
+        <div class="add-product-card-btn" id="add-product-card-btn">
+            <ul>
+                <li>
+                    <a href="../form/addItemForm.html" class="add-listing-btn">Pridėti savo skelbimą</a>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+    <div class="listing-wrapper">
+
+        <h2 id="item-name"></h2>
+        <img id="item-image" class="item-image" src="" alt="">
+
+        <div class="item-details-wrapper">
+        <h3 id="item-price" class="item-price"></h3>
+        <h3>Prekės aprašas</h3>
+        <p id="item-description" class="item-description"></p>
+        <p id="item-location" class="item-location"></p>
+        </div>
+    </div>
+
+    <div class="action-buttons">
+    <a href="../index.html"><button class="return-to-main-page-button">Grįžti į pagrindinį puslapį</button></a>
+
+    <button id="item-delete-button" class="item-delete-button">Pašalinti skelbimą</button>
+    
+
+    </div>
+    
+    <p id="message" class="message"></p>
+
+    <footer>
+        <div class="add-product-card-btn" id="add-product-card-btn">
+            <ul>
+                <li>
+                    <a href="../form/addItemForm.html" class="add-listing-btn">Pridėti savo skelbimą</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="company-highlights">
+            <div class="company-info">
+
+                <ul>
+                    <li><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla accusamus perspiciatis atque, voluptatem veritatis dolorem molestias dolor debitis fugiat voluptate.</p></li>
+
+                    <li>
+
+                        <div class="socials-list">
+                            <ul>
+                                <p>Mūsų socialiniai tinklai:</p>
+                                <li><a href="#"><img class="social-icon fb" src="../images/facebooklogo.svg" alt="Facebook logo"></a></li>
+                                <li><a href="#"><img class="social-icon twt" src="../images/twitter-svgrepo-com.svg" alt="Twitter logo"></a></li>
+                                <li><a href="#"><img class="social-icon twt" src="../images/youtube-svgrepo-com.svg" alt="YouTube logo"></a></li>
+                            </ul>
+
+                        </div>
+                        
+                    </li>
+
+                </ul>
+                
+            </div>
+
+            <div  class="logo-bottom">
+                <a href="../index.html"><img src="../images/logo.jpg" alt="logo"></a>
+           </div>
+
+        </div>
+        
+    </footer>
+
+    <script type="module" src="itemPageScript.js"></script>
+    
+</body>
+</html>

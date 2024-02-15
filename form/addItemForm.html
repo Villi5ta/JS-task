@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Įkelkite savo skelbimą</title>
+    <link rel="stylesheet" href="./addItemFormStyle.css">
+</head>
+<body>
+    <header>
+        <div id="logo">
+            <a href="../index.html">
+            <img src="../images/logo.jpg" alt="logo">
+            </a>
+
+            <h1>YUUUP, ir pardavimas garantuotas!</h1>
+        </div>
+    </header>
+
+    <div class="form-wrapper">
+<div class="inputs-wrapper">
+            <input id="item-name" placeholder="Ką parduodate?" required, minlength="2">
+            <input id="item-price" placeholder="Kokia prekės kaina?(eurais)" required, minlength="1">
+            <input id="item-image" placeholder="„Prikabinkite“ prakės nuotrauką" required, minlength="2">
+            <textarea id="item-description" class="item-description" rows="15" cols="50" placeholder="Apibūdinkite savo prekę" required, minlength="2"></textarea>
+            <input id="item-location" placeholder="Pardvimo vieta" required, minlength="2">
+</div>            
+
+        <button id="add-item-button" class="add-item-button ">Įkelti skelbimą</button>
+
+        <p id="listing-upload-message" class="listing-upload-message"></p>
+
+        <button class="return-button"><a href="../index.html">Grįžti į skelbimus</a></button>
+</div>
+        <footer>
+    
+            <div class="company-highlights">
+                <div class="company-info">
+    
+                    <ul>
+                        <li><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla accusamus perspiciatis atque, voluptatem veritatis dolorem molestias dolor debitis fugiat voluptate.</p></li>
+    
+                        <li>
+    
+                            <div class="socials-list">
+                                <ul>
+                                    <p>Mūsų socialiniai tinklai:</p>
+                                    <li><a href="#"><img class="social-icon fb" src="../images/facebooklogo.svg" alt="Facebook logo"></a></li>
+                                    <li><a href="#"><img class="social-icon twt" src="../images/twitter-svgrepo-com.svg" alt="Twitter logo"></a></li>
+                                    <li><a href="#"><img class="social-icon twt" src="../images/youtube-svgrepo-com.svg" alt="YouTube logo"></a></li>
+                                </ul>
+    
+                            </div>
+                            
+                        </li>
+    
+                    </ul>
+                    
+                </div>
+    
+                <div  class="logo-bottom">
+                    <a href="../index.html"><img src="../images/logo.jpg" alt="logo"></a>
+               </div>
+    
+            </div>
+            
+        </footer>
+
+        <script type="module" src="addItemFormScript.js"></script>
+    
+</body>
+</html>

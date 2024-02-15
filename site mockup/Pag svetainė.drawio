@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2024-02-09T07:27:40.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EpHGE6ZGjkBrDZ0SwQJG" version="23.1.2" type="device">
+  <diagram name="Puslapis-1" id="d5Ivp64zMSfrEiWDQcPp">
+    <mxGraphModel dx="2993" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;paprastas, pag. company spalvos, akcentas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry width="1330" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;logo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;prekė 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;foto&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;pavadinimas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;kaina&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;company moto&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Reklama&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="160" width="250" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;mygtukas įkelti skelbimą&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="10" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EqiUGb3ChVjZd1bb5MCV-13" target="EqiUGb3ChVjZd1bb5MCV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;prekė 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;foto&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;pavadinimas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;kaina&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EqiUGb3ChVjZd1bb5MCV-26" target="EqiUGb3ChVjZd1bb5MCV-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-28" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;prekė 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" vertex="1" parent="1">
+          <mxGeometry x="730" y="160" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;foto&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="180" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;pavadinimas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="340" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;kaina&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EqiUGb3ChVjZd1bb5MCV-31" target="EqiUGb3ChVjZd1bb5MCV-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-33" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;prekė 4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-34" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;prekė 5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-35" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;prekė 6&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" vertex="1" parent="1">
+          <mxGeometry x="730" y="440" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EqiUGb3ChVjZd1bb5MCV-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;prekė etc...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" vertex="1" parent="1">
+          <mxGeometry x="30" y="720" width="330" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
